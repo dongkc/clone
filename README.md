@@ -33,4 +33,4 @@ After building you can find binaries in `$CLONE_ROOT_PATH/bin`.
 
 ## References
 
-* http://stackoverflow.com/a/8507991
+* [Sample http range request session](http://stackoverflow.com/a/8507991)
