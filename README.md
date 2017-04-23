@@ -31,6 +31,6 @@ After building you can find binaries in `$CLONE_ROOT_PATH/bin`.
 * Make download faster
 * Add support to download multiple files
 
-## Thanks To
+## References
 
-* [johnstok](http://stackoverflow.com/users/27929/johnstok) for [this](http://stackoverflow.com/questions/8293687/sample-http-range-request-session)
+* http://stackoverflow.com/a/8507991
