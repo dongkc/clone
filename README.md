@@ -7,14 +7,8 @@ and merge them into single file.
 
 ## Building
 
-Make sure you have CMake to build the project and boost libraries for code. If not, install it by
+Make sure you have CMake and boost libraries installed.
 
-```
-sudo apt-get install cmake
-sudo apt-get install libboost-all-dev
-```
-
-Follow below steps to build the project.
 ```
 mkdir build
 cd build
@@ -26,8 +20,7 @@ You can find binaries in `$CLONE_ROOT_PATH/bin` directory.
 
 ## Run
 
-You can find binaries in `$CLONE_ROOT_PATH/bin`.
-Run the program as example given below
+After building you can find binaries in `$CLONE_ROOT_PATH/bin`.
 ```
 ./Clone <URL>
 ```
