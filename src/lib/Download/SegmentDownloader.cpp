@@ -6,7 +6,7 @@
 #include "Network/HttpResponseHeader.h"
 #include "SegmentDownloader.h"
 
-namespace Clone { namespace Download
+namespace viveketic { namespace Download
 {
     SegmentDownloader::SegmentDownloader(const std::string& urlString_,
                                          unsigned long long int startByte_,

@@ -7,7 +7,7 @@
 #include "SegmentDownloader.h"
 #include "File/FileManager.h"
 
-namespace Clone { namespace Download 
+namespace viveketic { namespace Download 
 {
     class SegmentManager
     {

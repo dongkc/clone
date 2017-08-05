@@ -5,7 +5,7 @@
 #include <algorithm>
 #include <iostream>
 
-namespace Clone { namespace Network 
+namespace viveketic { namespace Network 
 {
     class Url
     {

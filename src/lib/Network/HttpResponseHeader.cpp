@@ -5,7 +5,7 @@
 #include <sstream>
 #include <iostream>
 
-namespace Clone { namespace Network
+namespace viveketic { namespace Network
 {
     void HttpResponseHeader::toString(std::string& httpResponseHeaderAsString_) const
     {

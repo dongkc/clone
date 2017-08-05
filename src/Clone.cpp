@@ -17,9 +17,9 @@ int main(int argc, char *argv[])
         exit(0);
     }
     std::string urlString(argv[1]);
-    Clone::Network::Url url(urlString);
+    viveketic::Network::Url url(urlString);
     int noOfThreads = std::stoi(argv[2]);
-    Clone::Download::SingleFileDownloader singleFileDownloader(urlString, 
+    viveketic::Download::SingleFileDownloader singleFileDownloader(urlString, 
                                                                noOfThreads);
     singleFileDownloader.download();
     return 0;

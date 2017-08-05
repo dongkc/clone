@@ -3,7 +3,7 @@
 
 #include "HttpResponseHeader.h"
 
-namespace Clone { namespace Network 
+namespace viveketic { namespace Network 
 {
 
     class HttpResponseHeaderExtractor

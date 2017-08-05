@@ -7,7 +7,7 @@
 #include "SegmentManager.h"
 #include "File/FileManager.h"
 
-namespace Clone { namespace Download 
+namespace viveketic { namespace Download 
 {
     SingleFileDownloader::
     SingleFileDownloader(const std::string& urlString_,

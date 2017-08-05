@@ -2,7 +2,7 @@
 #include "Network/Url.h"
 #include "Network/HttpClient.h"
 
-namespace Clone { namespace Download 
+namespace viveketic { namespace Download 
 {
     class SingleFileDownloader
     {

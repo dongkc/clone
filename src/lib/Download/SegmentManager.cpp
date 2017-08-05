@@ -5,7 +5,7 @@
 #include "File/FileManager.h"
 #include "Network/Url.h"
 
-namespace Clone { namespace Download 
+namespace viveketic { namespace Download 
 {
     SegmentManager::SegmentManager(const std::string& urlString_,
                                    unsigned long long int fileSize_,

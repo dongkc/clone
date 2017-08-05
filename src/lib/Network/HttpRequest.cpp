@@ -3,7 +3,7 @@
 #include <sstream>
 
 
-namespace Clone { namespace Network 
+namespace viveketic { namespace Network 
 {
     HttpRequest::HttpRequest(const std::string& method_,
                              const std::string& version_,

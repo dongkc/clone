@@ -2,7 +2,7 @@
 
 #include "HttpResponseHeaderExtractor.h"
 
-namespace Clone { namespace Network
+namespace viveketic { namespace Network
 {
     int HttpClient::connectTo(const std::string& hostName_, int port_)
     {
