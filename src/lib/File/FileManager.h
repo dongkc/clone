@@ -5,7 +5,7 @@
 #include <vector>
 #include <memory>
 
-namespace viveketic { namespace File
+namespace Clone { namespace File
 {
     class FileManager
     {

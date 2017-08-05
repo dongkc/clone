@@ -4,7 +4,7 @@
 #include <iostream>
 #include <string>
 
-namespace viveketic { namespace Network 
+namespace Clone { namespace Network 
 {
     void HttpResponseHeaderExtractor::
     getElementsFromString(const std::string& httpResponseHeaderAsString_,

@@ -4,7 +4,7 @@
 
 #include <string>
 
-namespace viveketic { namespace Utils
+namespace Clone { namespace Utils
 {
 
     class NameGenerator

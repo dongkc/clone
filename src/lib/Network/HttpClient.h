@@ -17,7 +17,7 @@
 
 #include "HttpResponseHeader.h"
 
-namespace viveketic { namespace Network
+namespace Clone { namespace Network
 {
 
     class HttpClient

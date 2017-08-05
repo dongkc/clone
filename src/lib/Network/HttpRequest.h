@@ -3,7 +3,7 @@
 
 #include <string>
 
-namespace viveketic { namespace Network 
+namespace Clone { namespace Network 
 {
 
 class HttpRequest

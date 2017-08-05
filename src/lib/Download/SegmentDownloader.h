@@ -6,7 +6,7 @@
 
 #include "Network/Url.h"
 
-namespace viveketic { namespace Download
+namespace Clone { namespace Download
 {
     class SegmentDownloader
     {

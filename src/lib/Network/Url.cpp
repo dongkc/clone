@@ -1,7 +1,7 @@
 #include "Url.h"
 
 
-namespace viveketic { namespace Network
+namespace Clone { namespace Network
 {
     Url::Url(const std::string& url_)
     {

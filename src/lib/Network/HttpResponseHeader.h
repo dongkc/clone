@@ -4,7 +4,7 @@
 #include <string>
 #include <boost/optional.hpp>
 
-namespace viveketic { namespace Network
+namespace Clone { namespace Network
 {
 
 

@@ -4,7 +4,7 @@
 #include <iomanip>      // std::setfill, std::setw
 
 
-namespace viveketic { namespace Utils
+namespace Clone { namespace Utils
 {
 
     NameGenerator::NameGenerator()

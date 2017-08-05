@@ -6,7 +6,7 @@
 #include <memory>
 
 
-namespace viveketic { namespace File
+namespace Clone { namespace File
 {
 
     FileManager::FileManager(const std::string& baseFileName_)
